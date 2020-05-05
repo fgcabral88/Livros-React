@@ -1,0 +1,15 @@
+.root {
+  margin: 30px;
+}
+
+.MuiFormControl-root {
+  width: 100%;
+}
+
+.btn-container {
+  padding-top: 20px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
